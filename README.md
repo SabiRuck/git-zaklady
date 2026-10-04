@@ -3,4 +3,8 @@
 Ahoj svet!
 
 ## O mne
+
 Ja som Jana.
+
+Pozdravuje Peter.
+
